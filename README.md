@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaurav-arduino
-- 👀 I’m interested in electronics
-- 🌱 I’m currently learning software engineering
+- 👀 I’m interested in Electronics, Robotics, Arduino, etc.
+- 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on git-hub
 - 📫 How to reach me on @gaurav_arduino_creator
 
